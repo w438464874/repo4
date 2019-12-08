@@ -11,4 +11,10 @@ public class FirstClass {
         System.out.println("helloWorld");
         System.out.println("helloWorld");
     }
+
+
+    public void test(){
+        int i=0;
+        i++;
+    }
 }
